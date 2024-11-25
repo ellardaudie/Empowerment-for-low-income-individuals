@@ -3,5 +3,5 @@ Input:\
    **p**, _principal amount_\
    **t**, _time period in years_\
    **r**, _annual rate of interest_\
-Output\
+Output:\
    **p*t*r** = _simple interest_
