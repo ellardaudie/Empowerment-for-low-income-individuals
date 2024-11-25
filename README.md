@@ -4,4 +4,4 @@ Input:\
    **t**, _time period in years_\
    **r**, _annual rate of interest_\
 Output:\
-   **p*t*r** = _simple interest_
+   **p\*t\*r** = _simple interest_
